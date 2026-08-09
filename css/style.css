@@ -1,0 +1,1043 @@
+#hero {
+    background-image: url(../img/portada.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 200px;
+}
+
+#hero h1 {
+    font-family: 'Cormorant Garamond', serif;
+    color: #fff;
+    font-size: 80px;
+}
+
+#hero p {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+#hero .btn {
+    padding: 10px 45px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    margin: 10px;
+}
+
+#hero .container {
+    padding-top: 100px;
+}
+
+.navbar {
+    background-color: transparent;
+    padding: 20px 30px;
+}
+
+.navbar .nav-link {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.navbar .material-symbols-outlined {
+    color: #fff;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+#la_experiencia {
+    background-color: #fdf9f5;
+    padding: 150px 0px;
+}
+
+#la_experiencia .subtitulo {
+    font-family: 'Monserrat', sans-serif;
+    font-size: 13px;
+    color: #aeacac;
+    letter-spacing: 4px;
+}
+
+#la_experiencia h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 55px;
+    color: #000;
+    margin-bottom: 60px;
+}
+
+#la_experiencia h2 i {
+    font-style: italic;
+}
+
+#la_experiencia .icono {
+    font-size: 35px;
+    color: #000000;
+    margin-bottom: 15px;
+}
+
+#la_experiencia h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 23px;
+    color: #000;
+}
+
+#la_experiencia p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    color: #777;
+    padding: 0px 25px;
+}
+
+#tops {
+    padding: 60px 0px;
+    background-color: #fdf9f5;
+}
+
+#tops h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+}
+
+#tops p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: #777;
+}
+
+#tops .nav-link {
+    color: #000;
+}
+
+#tops .nav-link.active {
+    color: #000;
+}
+
+#tops .card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+#tops .card-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+#tops .card-img-top {
+    height: 400px;
+}
+
+.navbar-tops {
+    background-color: #fdf9f5;
+    padding: 20px 30px;
+}
+
+.navbar-tops .nav-link {
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.navbar-tops .material-symbols-outlined {
+    color: #000;
+}
+
+.navbar-tops a {
+    text-decoration: none;
+}
+
+#summer {
+    background-image: url("../img/summer.png");
+    background-size: 100% auto;
+    background-position: center top;
+    background-repeat: no-repeat;
+    min-height: 600px;
+    padding: 120px 0px 60px;
+    padding-left: 100px;
+    padding-top: 150px;
+}
+
+#summer h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 65px;
+    font-weight: 400px;
+    line-height: 0.95;
+
+}
+
+#summer p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#testimonios {
+    background-color: #fdf9f6;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+#testimonios h2 {
+    font-size: 11px;
+    letter-spacing: 4px;
+    font-weight: 400;
+}
+
+#testimonios h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 0.9;
+}
+
+#testimonios h1 em {
+    font-style: italic;
+}
+
+#testimonios.container p {
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+
+#testimonios .card {
+    border: none;
+    text-align: left;
+    height: 100%;
+}
+
+#testimonios .card-body {
+    padding: 25px;
+}
+
+.estrellas {
+    margin-bottom: 15px;
+}
+
+.estrellas .material-icons {
+    font-size: 14px;
+}
+
+#testimonios .card p {
+    font-size: 11px;
+    line-height: 1.7;
+}
+
+#testimonios .card h6 {
+    font-size: 11px;
+    margin-bottom: 3px;
+}
+
+#testimonios .card small {
+    font-size: 9px;
+}
+
+
+
+#categoria {
+    background-color: #fdf9f6;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#categoria #subtitulo {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    letter-spacing: 4px;
+    font-weight: 400;
+    color: #777;
+    margin-bottom: 15px;
+}
+
+#categoria #titulo {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 0.9;
+    margin: 0;
+}
+
+#categoria #titulo2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 0.9;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+#categoria #titulo2 em {
+    font-style: italic;
+}
+
+#categoria #hero_text {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    color: #777;
+    margin-bottom: 25px;
+}
+
+
+#categoria .categoria-card {
+    display: block;
+    height: 390px;
+    text-decoration: none;
+}
+
+#categoria .categoria-card img {
+    width: 100%;
+    height: 390px;
+}
+
+#categoria .categoria-overlay {
+    position: relative;
+    margin-top: -75px;
+    padding: 15px;
+    color: #fff;
+}
+
+#categoria .categoria-overlay span {
+    display: block;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+#categoria .categoria-overlay .material-symbols-outlined {
+    font-family: 'Material Symbols Outlined';
+    font-size: 20px;
+}
+
+.destacados {
+    background-color: #fdf9f5;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+
+.titulo-pequeno {
+    font-size: 12px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.destacados h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 42px;
+    font-weight: normal;
+    margin-bottom: 15px;
+    color: #111;
+}
+
+.descripcion {
+    font-size: 13px;
+    color: #777;
+    margin-bottom: 30px;
+}
+
+.btn-negro {
+    background-color: #111;
+    color: white;
+    border-radius: 25px;
+    padding: 10px 25px;
+    font-size: 12px;
+}
+
+.btn-negro {
+    background-color: #111;
+    color: white t;
+    text-decoration: none;
+}
+
+.btn-categorias {
+    background-color: white;
+    color: #222;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    padding: 10px 25px;
+    font-size: 12px;
+}
+
+.btn-negro {
+    background-color: #111;
+    color: white;
+}
+
+
+.producto {
+    background-color: #fdf9f5;
+    border-radius: 12px;
+    overflow: hidden;
+    text-align: left;
+}
+
+.imagen-producto {
+    height: 275px;
+    background-color: #fdf9f5;
+    position: relative;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.imagen-producto img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.etiqueta {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background-color: #111;
+    color: #fdf9f5;
+    font-size: 9px;
+    padding: 6px 10px;
+    border-radius: 15px;
+}
+
+.informacion-producto {
+    padding: 8px 15px 15px;
+    position: relative;
+}
+
+.nombre-producto {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    margin-bottom: 8px;
+    color: #222;
+}
+
+.precio strong {
+    font-size: 13px;
+    color: #111;
+}
+
+.precio span {
+    font-size: 9px;
+    color: #aaa;
+    text-decoration: line-through;
+    margin-left: 10px;
+}
+
+#destacados h2 {
+    font-family: 'Cormorant Garamond', serif;
+
+}
+
+#bestsellers {
+    background-color: #fdf9f5;
+    padding: 120px 0px 60px;
+}
+
+#bestsellers .subtitulo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    letter-spacing: 4px;
+    color: #777;
+    margin-bottom: 15px;
+}
+
+#bestsellers h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 0.9;
+    margin-bottom: 20px;
+}
+
+#bestsellers h1 i {
+    font-style: italic;
+}
+
+#bestsellers .descripcion {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    color: #777;
+    margin-bottom: 40px;
+}
+
+
+#bestsellers .card {
+    border: none;
+    background-color: transparent;
+    height: 100%;
+}
+
+#bestsellers .card-img-top {
+    height: 280px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+#bestsellers .card-body {
+    padding: 10px 0px;
+}
+
+#bestsellers .card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    margin-bottom: 10px;
+}
+
+#bestsellers strong {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+}
+
+#bestsellers small {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 8px;
+    color: #888;
+}
+
+#bestsellers .material-symbols-outlined {
+    font-size: 18px;
+}
+
+#bestsellers button {
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+    margin-left: 8px;
+}
+
+
+
+
+#contacto {
+    background-color: #fdf9f5;
+    padding: 120px 0px;
+}
+
+
+#contacto .subtitulo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    color: #777;
+    letter-spacing: 4px;
+    margin-bottom: 15px;
+}
+
+
+#contacto h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 0.9;
+    margin-bottom: 15px;
+}
+
+
+#contacto h1 em {
+    font-style: italic;
+}
+
+
+#contacto .descripcion {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: #777;
+}
+
+
+.correo {
+    display: flex;
+    margin-top: 20px;
+}
+
+
+.correo input {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #999;
+    background-color: #fdf9f5;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+}
+
+
+.correo button {
+    width: 60px;
+    background-color: #111;
+    color: #fff;
+    border: none;
+}
+
+
+.correo .material-symbols-outlined {
+    font-size: 18px;
+}
+
+
+#contacto .aviso {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 9px;
+    color: #777;
+    margin-top: 10px;
+}
+
+
+#camisa {
+    padding: 60px 0px;
+    background-color: #fdf9f5;
+}
+
+#camisa h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+}
+
+#camisa p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: #777;
+}
+
+#camisa .nav-link {
+    color: #000;
+}
+
+#camisa .nav-link.active {
+    color: #000;
+}
+
+#camisa .card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+#camisa .card-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+#camisa .card-img-top {
+    height: 400px;
+}
+
+.navbar-camisa {
+    background-color: #fdf9f5;
+    padding: 20px 30px;
+}
+
+.navbar-camisa .nav-link {
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.navbar-camisa .material-symbols-outlined {
+    color: #000;
+}
+
+.navbar-camisa a {
+    text-decoration: none;
+}
+
+
+#zapatos {
+    padding: 60px 0px;
+    background-color: #fdf9f5;
+}
+
+#zapatos h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+}
+
+#zapatos p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: #777;
+}
+
+#zapatos .nav-link {
+    color: #000;
+}
+
+#zapatos .nav-link.active {
+    color: #000;
+}
+
+#zapatos .card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+#zapatos .card-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+#zapatos .card-img-top {
+    height: 400px;
+}
+
+.navbar-zapatos {
+    background-color: #fdf9f5;
+    padding: 20px 30px;
+}
+
+.navbar-zapatos .nav-link {
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.navbar-zapatos .material-symbols-outlined {
+    color: #000;
+}
+
+.navbar-zapatos a {
+    text-decoration: none;
+}
+
+
+#bolsos_y_accesorios {
+    padding: 60px 0px;
+    background-color: #fdf9f5;
+}
+
+#bolsos_y_accesorios h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+}
+
+#bolsos_y_accesorios p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: #777;
+}
+
+#bolsos_y_accesorios .nav-link {
+    color: #000;
+}
+
+#bolsos_y_accesorios .nav-link.active {
+    color: #000;
+}
+
+#bolsos_y_accesorios .card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+#bolsos_y_accesorios .card-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+#bolsos_y_accesorios .card-img-top {
+    height: 400px;
+}
+
+.navbar-bolosos_y_accesorios {
+    background-color: #fdf9f5;
+    padding: 20px 30px;
+}
+
+.navbar-bolsos_y_accesorios .nav-link {
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.navbar-bolsos_y_accesorios .material-symbols-outlined {
+    color: #000;
+}
+
+.navbar-bolsos_y_accesorios a {
+    text-decoration: none;
+}
+
+#vestidos {
+    padding: 60px 0px;
+    background-color: #fdf9f5;
+}
+
+#vestidos h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+}
+
+#vestidos p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: #777;
+}
+
+#vestidos .nav-link {
+    color: #000;
+}
+
+#vestidos .nav-link.active {
+    color: #000;
+}
+
+#vestidos .card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+#vestidos .card-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+
+#vestidos .card-img-top {
+    height: 400px;
+}
+
+.navbar-vestidos {
+    background-color: #fdf9f5;
+    padding: 20px 30px;
+}
+
+.navbar-vestidos .nav-link {
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.navbar-vestidos .material-symbols-outlined {
+    color: #000;
+}
+
+.navbar-vestidos a {
+    text-decoration: none;
+}
+
+:root {
+    --fondo: #fdf9f5;
+    --texto: #1a1a1a;
+    --suave: #6b6b6b;
+    --blanco: #ffffff;
+    --radio: 12px;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--fondo);
+    color: var(--texto);
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Playfair Display', serif;
+}
+
+.etiqueta-seccion {
+    font-size: 0.75rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--suave);
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+#new-arrivals {
+    padding-top: 150px;
+}
+
+.titulo-seccion {
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+    color: var(--texto);
+    text-align: center;
+}
+
+.subtitulo-seccion {
+    color: var(--suave);
+    font-size: 1rem;
+    margin-bottom: 2.5rem;
+    max-width: 480px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tarjeta-producto {
+    background: #faf9f7;
+    overflow: hidden;
+    height: 100%;
+}
+
+.contenedor-imagen {
+    position: relative;
+    aspect-ratio: 3 / 4;
+    overflow: hidden;
+    background: #faf9f7;
+}
+
+.contenedor-imagen img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.insignia {
+    background: #1a1a1a;
+    color: #fff;
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    padding: 4px 10px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    z-index: 2;
+}
+
+.info-producto {
+    padding: 1rem 0.75rem 1.25rem;
+}
+
+.nombre-producto {
+    font-size: 0.95rem;
+    font-weight: 400;
+    margin-bottom: 0.35rem;
+    color: var(--texto);
+}
+
+.precio-producto {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin: 0;
+}
+
+.precio-anterior {
+    text-decoration: line-through;
+    color: #999;
+    font-size: 0.85rem;
+    font-weight: 400;
+    margin-left: 6px;
+}
+
+
+
+
+.item-lookbook {
+    position: relative;
+    border-radius: 14px;
+    overflow: hidden;
+    background: #e8e6e1;
+    height: 320px;
+}
+
+.item-lookbook img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+.item-lookbook:hover img {
+    transform: scale(1.05);
+}
+
+.superposicion-lookbook {
+    position: absolute;
+    bottom: 16px;
+    left: 16px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: #080808;
+    color: #b0b0b0;
+    padding: 50px 0px 25px;
+}
+
+footer a {
+    color: #b0b0b0;
+    text-decoration: none;
+}
+
+footer h3 {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    letter-spacing: 4px;
+    margin-bottom: 20px;
+}
+
+footer h4 {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+footer p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+}
+
+footer span {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+}
+
+footer a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0px;
+}
+
+.footer-links li {
+    margin-bottom: 12px;
+}
+
+.social-icons a {
+    color: #fff;
+    margin-right: 15px;
+}
+
+.social-icons .material-symbols-outlined {
+    font-size: 18px;
+}
+
+.footer-divider {
+    border-color: #333;
+    margin: 30px 0px 20px;
+}
+
+footer .row:last-child a {
+    margin-left: 15px;
+}
